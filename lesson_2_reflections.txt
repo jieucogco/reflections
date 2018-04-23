@@ -1,0 +1,2 @@
+What happens when you initialize a repository?
+When you initialize a repository, meta data is created. Why do you need to do it? To start being able to track versions.
